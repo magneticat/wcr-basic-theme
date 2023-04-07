@@ -1,2 +1,5 @@
 promobar_enabled: true
-promobar_text: Hello world
+promobar_text: 
+   default: "Hello world"
+   type: string
+
